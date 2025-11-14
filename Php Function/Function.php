@@ -4,5 +4,4 @@ function user($Name='user' ){
 }
 $answer = user();
 echo $answer;
-
 ?>
